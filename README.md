@@ -13,8 +13,6 @@
 👩🏻‍🎓 Studying Computer Science at Tecnológico de Monterrey, Zapopan, Mexico <br>
 💭 Currently learning about AI using PyTorch!
 
-<br>
-
 # 💻 **Tech Stack**
 <p align="left">
 
